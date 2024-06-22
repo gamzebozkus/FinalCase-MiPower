@@ -16,15 +16,16 @@ https://github.com/Nanogrup/SalaryPrediction/assets/84244385/6da5e577-3aaf-4f92-
 ![Ekran Resmi 2024-06-02 01 13 07](https://github.com/Nanogrup/SalaryPrediction/assets/103145955/43cda262-196c-444f-a65b-20ac83d12a2b)
 
 ### Data Analysis Page
-![Ekran Resmi 2024-06-02 01 20 19](https://github.com/Nanogrup/SalaryPrediction/assets/103145955/917fd502-4f4d-4386-b0c9-f9822826c7ed)
-![Ekran Resmi 2024-06-02 01 20 06](https://github.com/Nanogrup/SalaryPrediction/assets/103145955/2dabc693-d54b-4046-bc18-caf184fa41ea)
-![Ekran Resmi 2024-06-02 01 20 00](https://github.com/Nanogrup/SalaryPrediction/assets/103145955/87068207-2c65-4d3a-bd7d-16c26e52eb6b)
-![Ekran Resmi 2024-06-02 01 19 53](https://github.com/Nanogrup/SalaryPrediction/assets/103145955/af4192ff-5dce-48d7-b9b6-c8fb399cdcae)
-![Ekran Resmi 2024-06-02 01 19 47](https://github.com/Nanogrup/SalaryPrediction/assets/103145955/f8b2d0e8-db37-46c6-92c1-a95f3de3887a)
-![Ekran Resmi 2024-06-02 01 19 42](https://github.com/Nanogrup/SalaryPrediction/assets/103145955/67e6c1e5-6396-4259-8a1a-3a68860f8ce6)
 
+<img width="1052" alt="Screenshot 2024-06-22 2029421" src="https://github.com/gamzebozkus/FinalCase-MiPower/assets/84244385/04512026-c179-4ca1-a0ca-abc10eec8a6a">
 
+![Screenshot 2024-06-22 203053](https://github.com/gamzebozkus/FinalCase-MiPower/assets/84244385/d8c7291f-0a2e-4bba-9120-b6933dcfa44e)
 
+![Screenshot 2024-06-22 203105](https://github.com/gamzebozkus/FinalCase-MiPower/assets/84244385/4c16c5cd-85e3-4449-9330-02188d31eb05)
+
+![Screenshot 2024-06-22 203120](https://github.com/gamzebozkus/FinalCase-MiPower/assets/84244385/1d9a5b3d-0646-448f-8902-a9b1d8968b28)
+
+![Screenshot 2024-06-22 203134](https://github.com/gamzebozkus/FinalCase-MiPower/assets/84244385/a998c7c5-24d1-4c2d-86c7-7861eaa3aa0a)
 
 ### Salary Prediction Page
 ![Ekran Resmi 2024-06-02 01 14 03](https://github.com/Nanogrup/SalaryPrediction/assets/103145955/8ed339fb-4bc0-4f17-be88-8d46f16c6ade)
